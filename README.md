@@ -25,7 +25,7 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 | 5    | Compute cost for regularized LR      | 15 / 15 |
 | 6    | Gradient for regularized LR          | 15 / 15 |
 
-## Ex3. Multi-class Classication and Neural Networks
+## Ex3. Multi-class Classification and Neural Networks
 
 | PART | TITLE                              | SCORE   |
 | ---- | ---------------------------------- | ------- |
@@ -33,4 +33,14 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 | 2    | One-vs-all classifier training     | 20 / 20 |
 | 3    | One-vs-all classifier prediction   | 20 / 20 |
 | 4    | Neural network prediction function | 30 / 30 |
+
+## Ex4. Neural Network Learning
+
+| 部分   | 名称                                       | 分数      |
+| ---- | ---------------------------------------- | ------- |
+| 1    | Feedforward and cost function            | 30 / 30 |
+| 2    | Regularized cost function                | 15 / 15 |
+| 3    | Sigmoid gradient                         | 5 / 5   |
+| 4    | Neural net gradient function (backpropagation) | 40 / 40 |
+| 5    | Regularized gradient                     | 10 / 10 |
 
