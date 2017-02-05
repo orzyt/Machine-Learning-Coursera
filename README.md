@@ -36,7 +36,7 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 
 ## Ex4. Neural Network Learning
 
-| 部分   | 名称                                       | 分数      |
+| PART | TITLE                                    | SCORE   |
 | ---- | ---------------------------------------- | ------- |
 | 1    | Feedforward and cost function            | 30 / 30 |
 | 2    | Regularized cost function                | 15 / 15 |
