@@ -54,3 +54,11 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 | 4    | Polynomial feature mapping               | 10 / 10 |
 | 5    | Cross validation curve                   | 20 / 20 |
 
+## Ex6. Support Vector Machines
+
+| PART | TITLE                               | SCORE   |
+| ---- | ----------------------------------- | ------- |
+| 1    | Gaussian kernel                     | 25 / 25 |
+| 2    | Parameters (C, sigma) for dataset 3 | 25 / 25 |
+| 3    | Email preprocessing                 | 25 / 25 |
+| 4    | Email feature extraction            | 25 / 25 |
