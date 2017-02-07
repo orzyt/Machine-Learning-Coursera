@@ -44,3 +44,13 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 | 4    | Neural net gradient function (backpropagation) | 40 / 40 |
 | 5    | Regularized gradient                     | 10 / 10 |
 
+## Ex5. Regularized Linear Regression and Bias/Variance
+
+| PART | TITLE                                    | SCORE   |
+| ---- | ---------------------------------------- | ------- |
+| 1    | Regularized linear regression cost function | 25 / 25 |
+| 2    | Regularized linear regression gradient   | 25 / 25 |
+| 3    | Learning curve                           | 20 / 20 |
+| 4    | Polynomial feature mapping               | 10 / 10 |
+| 5    | Cross validation curve                   | 20 / 20 |
+
