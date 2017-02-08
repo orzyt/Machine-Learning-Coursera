@@ -62,3 +62,13 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 | 2    | Parameters (C, sigma) for dataset 3 | 25 / 25 |
 | 3    | Email preprocessing                 | 25 / 25 |
 | 4    | Email feature extraction            | 25 / 25 |
+
+## Ex7. K-Means Clustering and PCA
+
+| PART | TITLE                  | SCORE   |
+| ---- | ---------------------- | ------- |
+| 1    | Find closest centroids | 30 / 30 |
+| 2    | Compute centroid means | 30 / 30 |
+| 3    | PCA                    | 20 / 20 |
+| 4    | Project data           | 10 / 10 |
+| 5    | Recover data           | 10 / 10 |
