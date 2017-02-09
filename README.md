@@ -1,6 +1,6 @@
 # Machine-Learning-Coursera
 
-COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+**COURSE WEBSITE**：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 ## Ex1. Linear Regression
 
@@ -72,3 +72,14 @@ COURSE WEBSITE：[Machine Learning by Andrew Ng](https://www.coursera.org/learn/
 | 3    | PCA                    | 20 / 20 |
 | 4    | Project data           | 10 / 10 |
 | 5    | Recover data           | 10 / 10 |
+
+## Ex8. Anomaly Detection and Recommender Systems
+
+| PART | TITLE                            | SCORE   |
+| ---- | -------------------------------- | ------- |
+| 1    | Estimate gaussian parameters     | 15 / 15 |
+| 2    | Select threshold                 | 15 / 15 |
+| 3    | Collaborative filtering cost     | 20 / 20 |
+| 4    | Collaborative filtering gradient | 30 / 30 |
+| 5    | Regularized cost                 | 10 / 10 |
+| 6    | Gradient with regularization     | 10 / 10 |
